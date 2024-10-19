@@ -1,0 +1,32 @@
+fastapi
+python-dotenv
+jinja2
+uvicorn
+plotly
+prophet[cmdstanpy]
+transformers
+torch
+requests
+yfinance
+cachetools
+pandas
+httpx
+
+# slowapi
+#  pip install uvicorn  => may need to run again after installing other packages
+
+
+# prophet
+# aiohttp  # If using asynchronous requests
+
+
+
+
+
+
+
+
+
+
+
+
