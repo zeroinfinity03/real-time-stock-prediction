@@ -90,7 +90,7 @@ The **Real-Time Stock Analysis and Prediction Platform (RTSP)** is a sophisticat
 
 Maintain a clean and modular codebase by organizing your project directory (`RTSP/`) as follows:
 
-
+```
 RTSP/
 │
 ├── main.py                        # FastAPI app initialization and route definitions
@@ -302,4 +302,3 @@ httpx
 
 *This project is open-source and available under the [MIT License](LICENSE). Feel free to contribute, report issues, or suggest enhancements!*
 
-```
