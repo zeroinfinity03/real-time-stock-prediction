@@ -298,6 +298,15 @@ httpx
 
 [MIT License](LICENSE)
 
+
+
+## for uv:-
+
+<!-- uv add fastapi python-dotenv jinja2 uvicorn plotly prophet cmdstanpy transformers torch requests yfinance cachetools pandas httpx lxml -->
+
+<!-- uv run uvicorn main:app --reload -->
+
+
 ---
 
 *This project is open-source and available under the [MIT License](LICENSE). Feel free to contribute, report issues, or suggest enhancements!*
